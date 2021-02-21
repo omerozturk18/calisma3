@@ -1,0 +1,19 @@
+#Wed Dec 20 20:46:43 AST 2017
+renamed.5=classes6.dex
+renamed.4=classes5.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.5=E\:\\mp3\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\51
+base.4=E\:\\mp3\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\54
+base.3=E\:\\mp3\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\52
+base.2=E\:\\mp3\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\49
+base.1=E\:\\mp3\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\50
+base.0=E\:\\mp3\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\53
+file.5=E\:\\mp3\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\51\\classes.dex
+file.4=E\:\\mp3\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\54\\classes.dex
+file.3=E\:\\mp3\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\52\\classes.dex
+file.2=E\:\\mp3\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\49\\classes.dex
+file.1=E\:\\mp3\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\50\\classes.dex
+file.0=E\:\\mp3\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\53\\classes.dex
